@@ -1,0 +1,5 @@
+{
+  "name": "HR Lucky Draw & Grouping Tool",
+  "description": "A professional HR tool for random prize drawings with animations and automatic team grouping from CSV or text input.",
+  "requestFramePermissions": []
+}
